@@ -24,7 +24,7 @@ tags: [工具,爬虫]
     
     $sudo pip install --upgrade pip
     $sudo pip install scrapy 
-    sudo pip install scrapy --upgrade
+    $sudo pip install scrapy --upgrade
 
   完成上述两步，您应该能够成功的使用scrapy了。
   BUT～～～～～
