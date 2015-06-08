@@ -18,7 +18,7 @@ tags: [工具,爬虫]
             return [Post(title=e.extract()) for e in response.css("h2 a::text")]
 
 
-1. 安装
+####1. 安装
 
   简易安装如下:
     
@@ -36,3 +36,10 @@ tags: [工具,爬虫]
     $sudo apt-get install libxml2-dev libxslt1-dev libffi-dev
 
   BINGO～～～～～
+
+####2. 使用
+
+  使用如下:
+    
+    $sudo apt-get install
+    $sudo apt
