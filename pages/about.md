@@ -18,10 +18,8 @@ description: ""
 &nbsp;&nbsp;测试算法，人工智能<br/>
 
 3. 技术不求甚解<br/>
-&nbsp;&nbsp;熟练的 Java/Python/Html/Css/Javascript<br/>
-&nbsp;&nbsp;能用的 PHP/C/C++/Scala/Go/Shell/Ruby<br/>
+&nbsp;&nbsp;熟练的 Java/Python/Kotlin/Go<br/>
+&nbsp;&nbsp;能用的 Vue/Js/Html/Css<br/>
 &nbsp;&nbsp;PM(Project Manager) and PM(Product Manager) 经验|..)<br/>
 
-4. 带着眼镜看市场<br/>
-&nbsp;&nbsp;看看股票，听听新闻，穿穿西装，搞搞外包，赚赚外快，坐等公司　|..><br/>
 
